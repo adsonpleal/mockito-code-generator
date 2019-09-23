@@ -1,0 +1,3 @@
+class BuildMock {
+  const BuildMock();
+}

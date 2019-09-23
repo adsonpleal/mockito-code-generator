@@ -1,0 +1,15 @@
+name: mockito_generator_sample
+description: Mockito generator sample.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  mockito: ^4.1.1
+   
+dev_dependencies:
+  test: ^1.5.2
+  build_runner: '>=0.10.3 <1.2.0'
+  mockito_code_generator:
+    path: ..
